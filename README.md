@@ -1,5 +1,6 @@
 # praktikum_5_web-javascript
 
+![image](https://github.com/azzamsauqi2004/praktikum_5_web-javascript/assets/116098921/6568381e-4588-42a8-8439-68586b5c2a65)
 
 
 <!DOCTYPE html>
